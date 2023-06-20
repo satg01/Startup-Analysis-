@@ -1,5 +1,4 @@
-# Project Summary: 
- Analysis of 2021 Registered Companies
+#  2021 Registered Companies Analysis
 
 
 **Project Summary:**
